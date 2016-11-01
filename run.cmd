@@ -1,0 +1,1 @@
+set DEBUG=mercadolibre:* & npm start
